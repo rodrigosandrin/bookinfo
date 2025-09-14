@@ -15,6 +15,7 @@ spec:
     name: http
   selector:
     app: reviews
+    version: v1
 ---
 apiVersion: v1
 kind: ServiceAccount
